@@ -3,3 +3,9 @@ h1 {
   text-decoration: underline;
   color: palevioletred;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
